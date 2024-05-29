@@ -5,7 +5,6 @@ import PackageDescription
 
 let package = Package(
     name: "Trackball",
-    description: "A SwiftUI wrapper for handling trackpad touches in macOS.",
     platforms: [
         .macOS(.v10_15)
     ],
